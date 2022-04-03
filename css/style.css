@@ -8,6 +8,23 @@ body, html {
   background-color: #666;
 }
 
+.column {
+  display: inline;
+  width:33.3%;
+}
+
+.small {
+
+}
+
+.med {
+
+}
+
+.large {
+
+}
+
 .container, h1 {
   width: 80%;
   max-width: 600px;
